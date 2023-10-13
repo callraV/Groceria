@@ -7,7 +7,7 @@ const Footer = () => {
     <div>
       <div className="grid grid-cols-1 px-4 py-5 md:py-11 md:grid-cols-3 md:px-6 lg:px-8">
         <div className="col-span-1">
-          <h1 className="text-lg font-bold tracking-tight px-2 py-2 md:py-0 md:text-3xl md:pl-5">Online Grocery Web App</h1>
+          <h1 className="text-lg font-bold tracking-tight px-2 py-2 md:py-0 md:text-3xl md:pl-5">Groceria</h1>
         </div>
         <div className="mt-3 md:m-0 md:col-span-2">
           <TableContainer>

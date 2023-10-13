@@ -214,7 +214,7 @@ const LandingPage = () => {
         <br />
 
         <div className="text-center mx-7 my-8 py-8 lg:my-12">
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Online Grocery Web App</h1>
+          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">GROCERIA</h1>
           <p className="mt-8 text-gray-600 text-md md:text-xl">Stay home and get your daily needs delivered to your doorstep</p>
           <div className="mt-8 mx-5 flex flex-col items-center justify-center gap-2 md:flex-row">
             {userToken ? (
