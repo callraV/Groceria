@@ -1,4 +1,4 @@
-# Purwadhika Final Project Repository
+# Groceria: Geotagged E-commerce
 
 This is monorepo contain frontend project using ReactJS and backend project using ExpressJS.
 
