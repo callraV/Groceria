@@ -2,6 +2,14 @@
 
 This is monorepo contain frontend project using ReactJS and backend project using ExpressJS.
 
+![image](https://github.com/callraV/Groceria/assets/88369275/b4a10ff9-2a27-432d-8f53-17393aa4a090)
+<br/>
+![image](https://github.com/callraV/Groceria/assets/88369275/a3b214cf-7d23-49ff-a282-726f5dd80f8e)
+<br/>
+![image](https://github.com/callraV/Groceria/assets/88369275/d5c94397-4d22-47bd-9c06-d3c56e387782)
+
+* Developed for Purwadhika Digital School apprenticeship
+
 ## Available Scripts
 
 In the project directory, you can run:
