@@ -10,9 +10,6 @@ This is monorepo contain frontend project using ReactJS and backend project usin
 ![image](https://github.com/callraV/Groceria/assets/88369275/d5c94397-4d22-47bd-9c06-d3c56e387782)
 
 
-(Developed for Purwadhika Digital School apprenticeship)
-
-
 ## Available Scripts
 
 In the project directory, you can run:
